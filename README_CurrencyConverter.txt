@@ -1,0 +1,1 @@
+This currency converter app asks the user to input and amount, its currency, and the desired currency output to give the correct converted value.
